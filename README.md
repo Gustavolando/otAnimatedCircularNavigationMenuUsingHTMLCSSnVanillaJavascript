@@ -4,7 +4,7 @@ A nice Navigation Menu with CSS Effects.
 
 I practiced here ionicons CDN, gradients, multiple rotation calculation, transitions, cool color composition and vanilla JS.
 
-Cool HTML and CSS only code.
+Cool HTML, CSS and a few of JS code.
 
 This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?v=ShPPkZEeLPo&t=616s)
 
